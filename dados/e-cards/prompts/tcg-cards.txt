@@ -1,0 +1,26 @@
+create a scripit to create a table in postresql
+
+the first table is a table to save pokemom tcg cards
+the second table is a table to save collections set
+
+conect to tables with FOREIGN KEY
+
+the first table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- info
+- attack 
+- dammage
+- weak
+- ressis.
+- retreat
+- cardNumberInCoolection
+
+the second table: tbl_coolections
+- id 
+- collectionsSetName
+- release Date
+- totalCardsInCoolection
